@@ -1,0 +1,11 @@
+C:\Users\Carlos\Desktop\Proyecto Visual Studio\Proyecto Visual\Proyecto Visual\obj\Debug\netcoreapp3.1\Proyecto Visual.csprojAssemblyReference.cache
+C:\Users\Carlos\Desktop\Proyecto Visual Studio\Proyecto Visual\Proyecto Visual\obj\Debug\netcoreapp3.1\Proyecto Visual.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\Proyecto Visual Studio\Proyecto Visual\Proyecto Visual\obj\Debug\netcoreapp3.1\Proyecto Visual.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\Proyecto Visual Studio\Proyecto Visual\Proyecto Visual\bin\Debug\netcoreapp3.1\Proyecto Visual.exe
+C:\Users\Carlos\Desktop\Proyecto Visual Studio\Proyecto Visual\Proyecto Visual\bin\Debug\netcoreapp3.1\Proyecto Visual.deps.json
+C:\Users\Carlos\Desktop\Proyecto Visual Studio\Proyecto Visual\Proyecto Visual\bin\Debug\netcoreapp3.1\Proyecto Visual.runtimeconfig.json
+C:\Users\Carlos\Desktop\Proyecto Visual Studio\Proyecto Visual\Proyecto Visual\bin\Debug\netcoreapp3.1\Proyecto Visual.runtimeconfig.dev.json
+C:\Users\Carlos\Desktop\Proyecto Visual Studio\Proyecto Visual\Proyecto Visual\bin\Debug\netcoreapp3.1\Proyecto Visual.dll
+C:\Users\Carlos\Desktop\Proyecto Visual Studio\Proyecto Visual\Proyecto Visual\bin\Debug\netcoreapp3.1\Proyecto Visual.pdb
+C:\Users\Carlos\Desktop\Proyecto Visual Studio\Proyecto Visual\Proyecto Visual\obj\Debug\netcoreapp3.1\Proyecto Visual.dll
+C:\Users\Carlos\Desktop\Proyecto Visual Studio\Proyecto Visual\Proyecto Visual\obj\Debug\netcoreapp3.1\Proyecto Visual.pdb
