@@ -6,7 +6,9 @@ namespace Proyecto_Visual
 {
     public class Paladin : Personaje
     {
-        public Paladin(int _HP, int _ATK, string _STATUS){
+        
+        public Paladin (int _HP, int _ATK, string _STATUS) {
+
             HP = _HP;
             ATK = _ATK;
             STATUS = _STATUS;

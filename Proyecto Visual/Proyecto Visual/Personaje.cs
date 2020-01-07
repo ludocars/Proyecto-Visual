@@ -9,29 +9,29 @@ namespace Proyecto_Visual
         //atributos
         protected int HP;
         protected int ATK;
-        protected String STATUS;
-        //protected String Item;
-
-        //constructor 
-        public Personaje(int _HP, int _ATK, String _STATUS){
-            
-            HP = _HP;
-            ATK = _ATK;
-            STATUS = _STATUS;
-        }
+        protected string STATUS;
 
         //metodos
         public void Atacar(int ENEMIGO = 10){
             //aqui tomamos nuestro atk y disminuimos el hp del enemigo
             int ataque = ENEMIGO - ATK;
-            Console.WriteLine("La vida del Enemigo es: " + ataque);
+            Console.WriteLine("La vida del Enemigo es: \n" + ataque);
         }
-        public void Defender() { }
+        public void Defender() {}
         public void Status() {
             //aqui deseo mostrar los valores del personaje al momento
             Console.WriteLine("Tu vida es : " + HP);
             Console.WriteLine("Tu ataque es de : " + ATK);
             Console.WriteLine("Tu vida estado actual es : " + STATUS);
         }
+
+        //constructor 
+        public Personaje(int VALOR_HP, int VALOR_ATK, string VALOR_STATUS){
+            HP = VALOR_HP;
+            ATK = VALOR_ATK;
+            STATUS = VALOR_STATUS;
+        }
+
+        public Personaje() { }
     }
 }
